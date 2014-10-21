@@ -1,0 +1,7 @@
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\bin\Debug\UnitTestTDD.dll
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\bin\Debug\UnitTestTDD.pdb
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\bin\Debug\TDD.exe
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\bin\Debug\TDD.pdb
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\obj\Debug\UnitTestTDD.csprojResolveAssemblyReference.cache
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\obj\Debug\UnitTestTDD.dll
+C:\Users\estudiante\Desktop\TDD\UnitTestTDD\obj\Debug\UnitTestTDD.pdb
